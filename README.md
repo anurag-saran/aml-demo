@@ -18,7 +18,7 @@ In this demo we will create a banking customer profile. This will allow us to us
 5. Verify that you can SSH into the vm on port 2222 with user:`root` and pass:`hadoop`
 
     ```shell
-    [selrahal@localhost hadoop-lab]$ ssh root@localhost -p 2222
+    [anuragsaran@localhost hadoop-lab]$ ssh root@localhost -p 2222
     ```
 
 6. To get to the grunt command lime use the below command.
